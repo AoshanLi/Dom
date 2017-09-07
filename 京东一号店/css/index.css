@@ -1,0 +1,70 @@
+.headdenglu:hover{
+	color: pink;
+	text-decoration: none;
+	}
+.headdenglu2{
+	float: right;
+	}
+.headdenglu{
+	color: blue;
+	float: right;
+	}
+	
+.mai {
+	position: relative;
+	left: 800px;
+	height: 500px;
+	bottom: 700px;
+	background: white width: 500px;
+}
+.min {
+	width: 328px;
+	height: 50px;
+}
+
+.lon4 {
+	width: 400px;
+}
+.lon7 {
+	text-decoration: none;
+	margin-left: 170px;
+	color: blue;
+}
+.lon7:hover{
+	color: pink;
+}
+
+.gen {
+	margin: 0px;
+	padding: 0px;
+	margin-left: 10px;
+	margin-bottom: 50px;
+	display: inline-block;
+}
+
+.gen>li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+li img {
+	width: 45px;
+	height: 45px;
+}
+
+.zhuce{
+	color: blue;
+	}
+.zhuce:hover{
+	color: pink;
+	}
+.denglu{
+	background-color: #FF0000;
+	}
+.div{
+	text-align: center;
+	}
+.wei:hover{
+	color: red;
+	}
